@@ -1,0 +1,6 @@
+zones: 4 #a value of less than 2 might set an unreachable centroid position which will cause infinite coverage time (depending on the properties of the environment to be covered).
+#sensing_range: 3.5
+NumberofThreads: 9
+scan_frame: 'base_scan'
+Multi-threading: 0
+desired coverage: 97

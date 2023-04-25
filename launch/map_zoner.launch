@@ -1,0 +1,8 @@
+<launch>
+   
+   <rosparam file="$(find chaotic_CPP)/config/mapzoner.yaml" />
+
+   <node pkg="chaotic_CPP" type="map_zoner.py" name="mapzoner" output="screen"/>
+
+   
+</launch> 
