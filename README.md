@@ -1,7 +1,7 @@
 # Chaotic-Coverage-Path-Planner
 coverage planner developed in ROS
 
-# citatation
+# citation
 ```
 @article{amadasun2023autonomous,
   title={Autonomous search of real-life environments combining dynamical system-based path planning and unsupervised learning},
